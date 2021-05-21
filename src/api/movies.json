@@ -1,0 +1,67 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "name": "The Flash",
+      "rating": 8.3,
+      "overview": "This is a wider card with supporting text below as a natural lead-in to additional content.",
+      "imageURL": "https://image.tmdb.org/t/p/w220_and_h330_face/wHa6KOJAoNTFLFtp7wguUJKSnju.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Rogue",
+      "rating": 7.4,
+      "overview": "This is a wider card with supporting text below as a natural lead-in to additional content.",
+      "imageURL": "https://image.tmdb.org/t/p/w220_and_h330_face/uOw5JD8IlD546feZ6oxbIjvN66P.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Project Power",
+      "rating": 6.7,
+      "overview": "This is a wider card with supporting text below as a natural lead-in to additional content.",
+      "imageURL": "https://image.tmdb.org/t/p/w220_and_h330_face/TnOeov4w0sTtV2gqICqIxVi74V.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Superman",
+      "rating": 7.6,
+      "overview": "This is a wider card with supporting text below as a natural lead-in to additional content.",
+      "imageURL": "https://image.tmdb.org/t/p/w220_and_h330_face/6Bbq8qQWpoApLZYWFFAuZ1r2gFw.jpg"
+    },
+    {
+      "name": "Joker ",
+      "rating": "8.1",
+      "imageURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3DeEAwO42j4VmRdI4KSSN1VloM.jpg",
+      "overview": "This is a wider card with supporting text below as a natural lead-in to additional content.",
+      "id": 7
+    },
+    {
+      "name": "Yanlış Kapı 2",
+      "rating": "5.5",
+      "overview": "TEST TEST TEST bir biçimde kapısında beliren iki gizemli kadının; mutlu bir evliliği olan ve standart bir hayat yaşayan Evan Webber'ın hayatında açtıkları tahibatı perdeye taşıyacak olan film, yıllar sonra Reeves'i yeniden gerilim kulvarında karşımıza çıkarmayı hedefliyor.",
+      "imageURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/A1qdgBaaLhSxKkEBlpMFmtiiq4F.jpg",
+      "id": 8
+    },
+    {
+      "name": "Lucifer3",
+      "rating": "9",
+      "overview": "“Lucifer” Lucifer Morningstar; Los Angeles Polis Departmanı için suçluları yakalamaktadır. Ancak büyük bir sırrı vardır: Bu çekici adam, aslında yeryüzüne düşmüş bir melektir! Neil Gaiman tarafından yaratılan Lucifer, Sandman isimli serinin yardımcı karakterlerinden biriydi ve daha sonra kendi çizgi romanına kavuştu. Çizgi romanlarda, karakter Lux isimli bir barı işletiyor",
+      "imageURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vkGnVBSNpayJ1oCfyVaMvhrim95.jpg",
+      "id": 9
+    },
+    {
+      "name": "Takip: 70 Saat ",
+      "rating": "7.6",
+      "overview": "Kızının kaçırılışını, cep telefonu bağlantısında hiçbir şey yapamadan dinleyen bir babanın durumundan daha kötü ne olabilir? Kâbus gibi bu durum, eski bir gizli ajan olan Bryan’ın başına gelir. Genç kadınları satan bir çetenin elinden kızını kurtarmak için önünde çok kısa bir zaman vardır. Ancak Bryan’ın önünde çözülmesi gereken ilk sorun, kendisinin Los Angeles’te, kaçırılan kızının ise Paris’te olmasıdır.",
+      "imageURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wrJjDB8SSJJKcpXVf4KAxZIHvBZ.jpg",
+      "id": 10
+    },
+    {
+      "name": "Ava ",
+      "rating": "6.0",
+      "imageURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cvbyZ6qobXhStLOc7xQWQLTydQC.jpg",
+      "overview": "Güneş şemsiyeleriyle bezeli bir sahilde çocuklar oynuyor. Suyun sesi, gökyüzünün maviliği ve güneşin sıcaklığı hâkim. Bütün bu kalabalığın ortasında uyuyan bir çocuk Ava. Henüz 13 yaşında. Ruhu uyanıyor ancak gözleri, bir hastalık nedeniyle kapanmak üzere. Genç kızlığına adım adım yaklaşırken, önünde bekleyen sorunlarla baş edebilmek için kendince yöntemler arıyor. Prömiyerini yaptığı Cannes Eleştirmenler Haftası bölümünden ödülle dönen Ava, genç bir kızın büyüme hikâyesini girift bir anlatı üzerinden kuruyor ve dört başı mamur bir sinema duygusu yaratıyor. Yönettiği ilk uzun metrajlı filminde Léa Mysius, oldukça kompleks, görsel olarak çok maharetli bir karakter portresi çiziyor.",
+      "id": 11
+    }
+  ]
+}
