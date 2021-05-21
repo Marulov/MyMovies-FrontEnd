@@ -3,9 +3,11 @@ import SearchBar from "./SearchBar";
 import MovieList from "./MovieList";
 import AddMovie from "./AddMovie";
 import EditMovie from "./EditMovie";
+import NavBar from "./NavBar";
 
 import axios from "axios"; // axios paketini import ettik(get,post,delete gibi http istekleri için gerekli)
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom"; // Router vermek için gerekli olan import
+
 
 class App extends React.Component {
   state = {
@@ -76,6 +78,7 @@ class App extends React.Component {
 
     return (
       <Router>
+        <NavBar/>
         <div className="container " style={{ width: "800px" }}>
           <Switch>
             <Route
@@ -83,6 +86,7 @@ class App extends React.Component {
               exact
               render={() => (
                 <React.Fragment>
+                  
                   <div className="row">
                     <div className="col-lg-12">
                       <SearchBar searchMovieProp={this.searchMovie} />

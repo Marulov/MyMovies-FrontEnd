@@ -1,5 +1,5 @@
 import React from "react"
-import { Link } from   "react-router-dom"
+import { Link } from "react-router-dom"
 
 const MovieList = (props) => {
    
@@ -15,7 +15,7 @@ const MovieList = (props) => {
             {props.movies.map((movie, i) => (
 
                 <div className="col-lg-4" key={i}>
-                <div className="card mb-4 shadow-sm">
+                <div className="card shadow-sm">
                     <img className="card-img-top" src={movie.imageURL} alt="movie"/>
                     <div className="card-body">
                         <h5 className="card-title">{movie.name}</h5>
